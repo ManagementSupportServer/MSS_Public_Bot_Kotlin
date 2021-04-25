@@ -151,5 +151,5 @@ gradle-app.setting
 
 # End of https://www.gitignore.io/api/git,gradle,kotlin,intellij
 
-application.conf
 .idea
+local.properties
